@@ -1,0 +1,6 @@
+{
+  "name": "CloudWatch Pulse",
+  "description": "Real-time AWS CloudWatch telemetry observability dashboard, intelligent anomaly radar, multi-service pulse health, interactive Logs Insights studio, and Gemini AI root-cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
